@@ -15,7 +15,8 @@ Five flex sensors are fastened to a glove. Each sensor is connected to a pulldow
 
 ## Future Modifications
 The project currently is just a proof of concept, so many main features are not yet implemented. Some features that can be added include:
-- Bluetooth and IMU compatibility 
+- Bluetooth and IMU compatibility
+- Full alphabet and basic signs coded in
 - Custom PCB design instead of breadboard for replication
 - Two hand compatibility (second glove)
 - Camera using machine learning to check facial expressions of wearer 
